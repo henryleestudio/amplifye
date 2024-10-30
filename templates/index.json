@@ -574,6 +574,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-2",
+        "background_image": "shopify://shop_images/erol-ahmed-leOh1CzRZVQ-unsplash.jpg",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
