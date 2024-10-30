@@ -11,11 +11,30 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "newsletter_hKFakz": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "HOW DO YOU PROTEIN?",
+        "content": "<p>Are you all about shakes? Powders? Supplements? Are you going paleo? Or plant based? Tell us how you protein and we'll help you unlock the maximum benefit.</p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "newsletter_hKFakz"
   ]
 }
