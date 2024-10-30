@@ -574,6 +574,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-2",
+        "background_image": "shopify://shop_images/istockphoto-1967741682-1024x1024_2.jpg",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h2",
