@@ -136,62 +136,6 @@
         "content": ""
       }
     },
-    "multi_column_TN7Pb4": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_b4MkTh": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/4180fe51f13b53bafa9c8a2f807b7ace.jpg",
-            "title": "YOU EAT PROTEIN",
-            "heading_tag": "h3",
-            "content": "<p>The amino acids you eat are essential to countless processes in your body. But our bodies have a hard time digesting and absorbing protein fully.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_BpQanT": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/AdobeStock_236958731.jpg",
-            "title": "P24 unlocks protein",
-            "heading_tag": "h3",
-            "content": "<p>P24 is activated by the acid in your stomach during digestion and immediately starts to break down the protein you eat for easier digestion and absorption.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_nBybe7": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/AdobeStock_519875221_1.jpg",
-            "title": "YOUR BODY DOES THE REST",
-            "heading_tag": "h3",
-            "content": "<p>Unlocking nutrition from the food you eat leads to better health, sustained energy, and optimal recovery.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_with_text_b4MkTh",
-        "image_with_text_BpQanT",
-        "image_with_text_nBybe7"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
     "faq_PftBxE": {
       "type": "faq",
       "blocks": {
@@ -241,6 +185,62 @@
         "content": ""
       }
     },
+    "multi_column_TN7Pb4": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_b4MkTh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/pdp-img-2.png",
+            "title": "YOU EAT PROTEIN",
+            "heading_tag": "h3",
+            "content": "<p>The amino acids you eat are essential to countless processes in your body. But our bodies have a hard time digesting and absorbing protein fully.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_BpQanT": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/pdp-img-1.png",
+            "title": "P24 unlocks protein",
+            "heading_tag": "h3",
+            "content": "<p>P24 is activated by the acid in your stomach during digestion and immediately starts to break down the protein you eat for easier digestion and absorption.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_nBybe7": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/pdp-img-3.png",
+            "title": "YOUR BODY DOES THE REST",
+            "heading_tag": "h3",
+            "content": "<p>Unlocking nutrition from the food you eat leads to better health, sustained energy, and optimal recovery.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_b4MkTh",
+        "image_with_text_BpQanT",
+        "image_with_text_nBybe7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
     "image_with_text_zg4KTk": {
       "type": "image-with-text",
       "blocks": {
@@ -271,7 +271,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/image_82.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
@@ -300,14 +300,14 @@
         "text_GCL44t"
       ],
       "settings": {
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "scrolling_speed": 0.3,
         "scroll_direction": "left",
         "text_font": "heading",
-        "text_font_size_mobile": 40,
-        "text_font_size_desktop": 96,
+        "text_font_size_mobile": 32,
+        "text_font_size_desktop": 32,
         "section_vertical_spacing_mobile": 60,
-        "section_vertical_spacing_desktop": 80,
+        "section_vertical_spacing_desktop": 30,
         "item_horizontal_spacing_mobile": 80,
         "item_horizontal_spacing_desktop": 120,
         "background": "",
@@ -321,7 +321,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/product-packaging.jpg",
+            "image": "shopify://shop_images/0bf2de7ae44a37b708f27b9d36d78045.jpg",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -379,7 +379,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "desktop_row_height": 290,
         "mobile_row_height": 180,
         "section_width": "lg",
@@ -482,8 +482,8 @@
   "order": [
     "main",
     "related-products",
-    "multi_column_TN7Pb4",
     "faq_PftBxE",
+    "multi_column_TN7Pb4",
     "image_with_text_zg4KTk",
     "scrolling_content_YWWzbT",
     "media_grid_k9ym9i",
