@@ -154,7 +154,7 @@
           "settings": {
             "title": "INDIVIDUALIZED",
             "heading_tag": "h3",
-            "content": "<p>We all </p>",
+            "content": "<p>Your body is already working hard to absorb protein. P24 make that process easier by unlocking previsouly hard-to-digest nutrients.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -203,22 +203,22 @@
         "question_piyhPa": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "How soon will I see results?",
+            "answer": "<p>Protein absorption is an individualized process. P24 unlocks the protein in the meal you've just eaten. Some people might experience benefits quickly, while other may experience a more subtle benefit that builds over time. </p>"
           }
         },
         "question_wYXayr": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "Can I use P24 if I'm pregant? What if I'm breastfeeding?",
+            "answer": "<p>As with any dietary supplement, we recommend that you speak with your health care provider to see if P24 can work with your nutritional regimen.</p>"
           }
         },
         "question_K4yBUi": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "Can I use P24 with my usual protein supplement?",
+            "answer": "<p>Absolutely. P24 can be consumed with any type of protein, from shakes to salmon to plant-based meals.</p>"
           }
         }
       },
