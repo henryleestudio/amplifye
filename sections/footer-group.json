@@ -151,8 +151,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Knowledge is power",
-            "content": "<h3>Sign up to our newsletter</h3>",
+            "title": "Let's optimize together",
+            "content": "<h3>Join the Protein Collective</h3>",
             "button_background": "",
             "button_text_color": ""
           }
