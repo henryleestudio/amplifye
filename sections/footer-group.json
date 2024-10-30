@@ -1,1 +1,227 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"icon-1":{"type":"item","settings":{"title":"Free delivery worldwide"}},"icon-2":{"type":"item","settings":{"title":"Satisfied or refunded"}},"icon-3":{"type":"item","settings":{"title":"Top-notch support"}},"icon-4":{"type":"item","settings":{"title":"Secure payments"}}},"block_order":["icon-1","icon-2","icon-3","icon-4"],"settings":{}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}}},"block_order":["newsletter","links","text"],"settings":{}}},"order":["text-with-icons","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "timeline_BmCbKb": {
+      "type": "timeline",
+      "blocks": {
+        "item_ieD8tT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-1.png",
+            "label": "Dr Gabrielle Lyon",
+            "subheading": "Physician, author & health tech entrepreneur",
+            "title": "Dr Gabrielle Lyon",
+            "content": "<p>“No other supplement does what Timeline can. It is an amazing advance for muscle health and longevity.”</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_68UY9b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-4.jpg",
+            "label": "dr mark hyman",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr mark hyman",
+            "content": "<p>\"Functional Medicine Physician, 15x New York Times Bestselling Author\"</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_y9c7hG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-10-30_at_6.01.17_AM.png",
+            "label": "dr Emily",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr Emily",
+            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_D63caU": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-3.jpg",
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_ieD8tT",
+        "item_68UY9b",
+        "item_y9c7hG",
+        "item_D63caU"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "scheme-1",
+        "separate_section_with_border": false
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Free delivery worldwide",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Satisfied or refunded",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Top-notch support",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "icon-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Secure payments",
+            "content": "<p>Short content about your store</p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Knowledge is power",
+            "content": "<h3>Sign up to our newsletter</h3>",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_acY8ht": {
+          "type": "links",
+          "settings": {
+            "menu": "learn",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_JCzwdH": {
+          "type": "links",
+          "settings": {
+            "menu": "about",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "About",
+            "content": "<p>p24 is a precision protein optimizer born from Nobel Prize winning science out of UC Davis. <br/><br/>With p24, your body can absorb up to 2x as much protein from the food you’re already eating. Take one pill with your largest protein meal each day for easier digestion, sustained energy, and deeper sleep. <br/><br/>To learn more about the science behind our product and share your nutritional journey with our like minded community</p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "links_ALV8pT": {
+          "type": "links",
+          "settings": {
+            "menu": "support",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links",
+        "links_acY8ht",
+        "links_JCzwdH",
+        "text",
+        "links_ALV8pT"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": false,
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "timeline_BmCbKb",
+    "text-with-icons",
+    "footer"
+  ]
+}

@@ -144,7 +144,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "subheading": "",
         "title": "",
         "items_per_row": 6,
@@ -315,7 +315,7 @@
         "content_alignment": "center",
         "text_alignment": "start",
         "spacing": "md",
-        "subheading": "Sub title",
+        "subheading": "Stories & Science",
         "title": "Testimonials",
         "content": ""
       }
@@ -376,12 +376,14 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/DTS_practice_Daniel_Faro_Photos_ID4853.jpg",
             "rotation": 0
           }
         },
         "image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ROUNDED_af63d76b087adb246aba6bb72b0dbc6f.png",
             "rotation": 0
           }
         }
@@ -521,7 +523,7 @@
         "container_size": "lg",
         "product_info_size": 45,
         "center_basic_info": false,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "carousel_dots",
         "desktop_media_grid_gap": 30,
         "mobile_controls": "dots",
         "enable_media_autoplay": false,
@@ -539,10 +541,10 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/Screenshot2024-10-30at2.44.16AM.png",
+            "image": "shopify://shop_images/education-img-1.png",
             "subheading": "",
-            "title": "Nobel Prize Winning Technology",
-            "content": "<p>The science inside each P24 capsule has its roots in award-winning research conducted at UC Davis.</p>",
+            "title": "BORN FROM NOBEL PRIZE WINNING SCIENCE",
+            "content": "<p>The science inside each P24 capsule has its roots in award-winning research conducted at University of California, Davis.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -551,8 +553,9 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/education-img-2.png",
             "subheading": "",
-            "title": "Planet friendly approach.",
+            "title": "Planet friendly approach",
             "content": "<p>By increasing protein bioavailability, P24 contributes to a sustainable food ecosystem, supporting health without additional resource strain.</p>",
             "link_text": "",
             "link_url": "",
@@ -576,120 +579,9 @@
         "item-2",
         "item-3"
       ],
-      "settings": {
-        "color_scheme": "",
-        "background_image": "shopify://shop_images/istockphoto-1967741682-1024x1024_1.jpg",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "timeline_j36ykw": {
-      "type": "timeline",
-      "blocks": {
-        "item_TmkFh8": {
-          "type": "item",
-          "settings": {
-            "label": "2000",
-            "subheading": "Our team of experts",
-            "title": "Dr. Emily Fritz, PhD",
-            "content": "<p>A specialist in protein science laser-focused on improving bioavailabilty in the protein we eat every day.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_PXzzFy": {
-          "type": "item",
-          "settings": {
-            "label": "2010",
-            "subheading": "Subheading",
-            "title": "2010",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_Nndtqk": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "2020",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "item_TmkFh8",
-        "item_PXzzFy",
-        "item_Nndtqk"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "item_color_scheme": "",
-        "separate_section_with_border": true
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
-            "product_2_vertical_position": 40,
-            "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
-            "product_4": "",
-            "product_4_horizontal_position": 85,
-            "product_4_vertical_position": 85
-          }
-        }
-      },
-      "block_order": [
-        "look-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
-        "popover_title": "Shop the look"
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -705,6 +597,42 @@
         "button_link": "",
         "button_text": "View all"
       }
+    },
+    "rich_text_A3BCL7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zixJjX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Advisors"
+          }
+        },
+        "heading_WcBEBM": {
+          "type": "heading",
+          "settings": {
+            "text": "Board of Experts",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_rzbACR": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zixJjX",
+        "heading_WcBEBM",
+        "richtext_rzbACR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
@@ -717,9 +645,7 @@
     "multiple-media-with-text",
     "featured_product_nDQaDa",
     "image-with-text-scroll",
-    "timeline_j36ykw",
-    "newsletter",
-    "shop-the-look",
-    "blog-posts"
+    "blog-posts",
+    "rich_text_A3BCL7"
   ]
 }
