@@ -64,6 +64,19 @@
             "mobile_text_color": "#ffffff"
           }
         },
+        "item_FHiAeQ": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
         "item_68UY9b": {
           "type": "item",
           "settings": {
@@ -110,10 +123,12 @@
       },
       "block_order": [
         "item_ieD8tT",
+        "item_FHiAeQ",
         "item_68UY9b",
         "item_y9c7hG",
         "item_D63caU"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "item_color_scheme": "scheme-1",
