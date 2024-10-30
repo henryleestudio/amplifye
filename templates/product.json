@@ -142,7 +142,7 @@
         "image_with_text_b4MkTh": {
           "type": "image_with_text",
           "settings": {
-            "title": "help you help you",
+            "title": "HELP YOU HELP YOU",
             "heading_tag": "h3",
             "content": "<p>Your body is already working hard to absorb protein. P24 make that process easier by unlocking previsouly hard-to-digest nutrients. </p>",
             "link_url": "",
@@ -152,9 +152,9 @@
         "image_with_text_BpQanT": {
           "type": "image_with_text",
           "settings": {
-            "title": "2X THE BENEFIT",
+            "title": "INDIVIDUALIZED",
             "heading_tag": "h3",
-            "content": "<p>WHILE RESULTS DIFFER FOR </p>",
+            "content": "<p>We all </p>",
             "link_url": "",
             "link_text": ""
           }
@@ -185,7 +185,7 @@
         "text_alignment": "start",
         "spacing": "md",
         "subheading": "",
-        "title": "More protein from your protein",
+        "title": "HOW OUR SCIENCE WORKS",
         "content": ""
       }
     },
