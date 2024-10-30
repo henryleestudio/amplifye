@@ -576,7 +576,7 @@
         "color_scheme": "scheme-2",
         "image_position": "start",
         "text_alignment": "center",
-        "heading_tag": "h3",
+        "heading_tag": "h2",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -599,6 +599,42 @@
         "button_link": "",
         "button_text": "View all"
       }
+    },
+    "rich_text_A3BCL7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zixJjX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_WcBEBM": {
+          "type": "heading",
+          "settings": {
+            "text": "Board of Experts",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_rzbACR": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zixJjX",
+        "heading_WcBEBM",
+        "richtext_rzbACR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
@@ -611,6 +647,7 @@
     "multiple-media-with-text",
     "featured_product_nDQaDa",
     "image-with-text-scroll",
-    "blog-posts"
+    "blog-posts",
+    "rich_text_A3BCL7"
   ]
 }

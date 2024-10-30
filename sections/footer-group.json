@@ -81,7 +81,7 @@
       "settings": {
         "color_scheme": "",
         "item_color_scheme": "scheme-1",
-        "separate_section_with_border": true
+        "separate_section_with_border": false
       }
     },
     "text-with-icons": {
@@ -164,6 +164,14 @@
             "menu_title": ""
           }
         },
+        "links_acY8ht": {
+          "type": "links",
+          "settings": {
+            "menu": "learn",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -176,6 +184,7 @@
       "block_order": [
         "newsletter",
         "links",
+        "links_acY8ht",
         "text"
       ],
       "settings": {
