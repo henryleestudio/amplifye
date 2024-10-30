@@ -202,7 +202,7 @@
         "image_with_text_BpQanT": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/pdp-img-1.png",
+            "image": "shopify://shop_images/2e6618bb052e0bf4e5ac0583e3ff71fa.jpg",
             "title": "P24 unlocks protein",
             "heading_tag": "h3",
             "content": "<p>P24 is activated by the acid in your stomach during digestion and immediately starts to break down the protein you eat for easier digestion and absorption.</p>",
@@ -213,7 +213,7 @@
         "image_with_text_nBybe7": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/pdp-img-3.png",
+            "image": "shopify://shop_images/Mask_group.png",
             "title": "YOUR BODY DOES THE REST",
             "heading_tag": "h3",
             "content": "<p>Unlocking nutrition from the food you eat leads to better health, sustained energy, and optimal recovery.</p>",
@@ -339,7 +339,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/Amplyfye_Logo.png",
+            "image": "shopify://shop_images/Screenshot_2024-10-30_at_4.49.55_PM.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
