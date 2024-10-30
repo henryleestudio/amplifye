@@ -11,6 +11,77 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "timeline_BmCbKb": {
+      "type": "timeline",
+      "blocks": {
+        "item_ieD8tT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-1.png",
+            "label": "Dr Gabrielle Lyon",
+            "subheading": "Physician, author & health tech entrepreneur",
+            "title": "Dr Gabrielle Lyon",
+            "content": "<p>“No other supplement does what Timeline can. It is an amazing advance for muscle health and longevity.”</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_y9c7hG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-2.jpg",
+            "label": "dr will cole",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr will cole",
+            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_68UY9b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/expert-profile-4.jpg",
+            "label": "dr mark hyman",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr mark hyman",
+            "content": "<p>\"Functional Medicine Physician, 15x New York Times Bestselling Author\"</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_D63caU": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_ieD8tT",
+        "item_y9c7hG",
+        "item_68UY9b",
+        "item_D63caU"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "scheme-1",
+        "separate_section_with_border": true
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -61,6 +132,7 @@
         "icon-3",
         "icon-4"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -105,7 +177,7 @@
         "text"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "separate_section_with_border": false,
         "show_social_media": true,
         "show_payment_icons": true,
@@ -117,6 +189,7 @@
     }
   },
   "order": [
+    "timeline_BmCbKb",
     "text-with-icons",
     "footer"
   ]
