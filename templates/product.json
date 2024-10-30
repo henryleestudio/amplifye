@@ -142,9 +142,9 @@
         "image_with_text_b4MkTh": {
           "type": "image_with_text",
           "settings": {
-            "title": "HELP YOU HELP YOU",
+            "title": "YOU EAT PROTEIN",
             "heading_tag": "h3",
-            "content": "<p>Your body is already working hard to absorb protein. P24 make that process easier by unlocking previsouly hard-to-digest nutrients. </p>",
+            "content": "<p>The amino acids you eat are essential to countless processes in your body. But our bodies have a hard time digesting and absorbing protein fully.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -152,9 +152,9 @@
         "image_with_text_BpQanT": {
           "type": "image_with_text",
           "settings": {
-            "title": "INDIVIDUALIZED",
+            "title": "P24 unlocks protein",
             "heading_tag": "h3",
-            "content": "<p>Your body is already working hard to absorb protein. P24 make that process easier by unlocking previsouly hard-to-digest nutrients.</p>",
+            "content": "<p>P24 is activated by the acid in your stomach during digestion and immediately starts to break down the protein you eat for easier digestion and absorption.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -162,9 +162,9 @@
         "image_with_text_nBybe7": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
+            "title": "YOUR BODY DOES THE REST",
             "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Unlocking nutrition from the food you eat leads to better health, sustained energy, and optimal recovery.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -185,7 +185,7 @@
         "text_alignment": "start",
         "spacing": "md",
         "subheading": "",
-        "title": "HOW OUR SCIENCE WORKS",
+        "title": "HOW P24 WORKS",
         "content": ""
       }
     },
