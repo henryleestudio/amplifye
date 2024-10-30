@@ -24,9 +24,10 @@
         "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "image_size": "auto",
-        "subheading": "Keep me updated",
+        "image": "shopify://shop_images/istockphoto-1967741682-1024x1024_2.jpg",
+        "subheading": "",
         "title": "HOW DO YOU PROTEIN?",
-        "content": "<p>Are you all about shakes? Powders? Supplements? Are you going paleo? Or plant based? Tell us how you protein and we'll help you unlock the maximum benefit.</p>",
+        "content": "<p>Are you all about shakes? Powders? Supplements? Are you going paleo? Or plant based? We're on a mission to help the world access more nutrition from the protein you already eat. Join us as we unlock the full potenial of protein.</p>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0
