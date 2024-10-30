@@ -142,6 +142,7 @@
         "image_with_text_b4MkTh": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/4180fe51f13b53bafa9c8a2f807b7ace.jpg",
             "title": "YOU EAT PROTEIN",
             "heading_tag": "h3",
             "content": "<p>The amino acids you eat are essential to countless processes in your body. But our bodies have a hard time digesting and absorbing protein fully.</p>",
@@ -152,6 +153,7 @@
         "image_with_text_BpQanT": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/AdobeStock_236958731.jpg",
             "title": "P24 unlocks protein",
             "heading_tag": "h3",
             "content": "<p>P24 is activated by the acid in your stomach during digestion and immediately starts to break down the protein you eat for easier digestion and absorption.</p>",
@@ -162,6 +164,7 @@
         "image_with_text_nBybe7": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/AdobeStock_519875221_1.jpg",
             "title": "YOUR BODY DOES THE REST",
             "heading_tag": "h3",
             "content": "<p>Unlocking nutrition from the food you eat leads to better health, sustained energy, and optimal recovery.</p>",
@@ -185,7 +188,7 @@
         "text_alignment": "start",
         "spacing": "md",
         "subheading": "",
-        "title": "HOW P24 WORKS",
+        "title": "",
         "content": ""
       }
     },
@@ -194,6 +197,7 @@
       "blocks": {
         "category_YRy6Rd": {
           "type": "category",
+          "disabled": true,
           "settings": {
             "title": "Order",
             "icon": "none",
@@ -232,7 +236,7 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "show_categories": false,
-        "subheading": "Need help?",
+        "subheading": "",
         "title": "Frequently Asked Questions",
         "content": ""
       }
@@ -243,20 +247,20 @@
         "subheading_4XptRn": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "1 Pill and it's working"
           }
         },
         "heading_HKezeH": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
+            "text": "This is how you protein",
             "heading_tag": "h1"
           }
         },
         "richtext_XpRHjp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>No scoop. No math. Just one P24 pill taken with your biggest meal, and you begin to absorb more life-enhancing nutrition from the food you eat.</p>"
           }
         }
       },
@@ -308,6 +312,81 @@
         "item_horizontal_spacing_desktop": 120,
         "background": "",
         "text_color": ""
+      }
+    },
+    "media_grid_k9ym9i": {
+      "type": "media-grid",
+      "blocks": {
+        "image_GXYTPj": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Screenshot_2024-10-29_at_5.34.48_PM.png",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_n3VJNa": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Amplyfye_Logo.png",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_igz6kA": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/image_27.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GXYTPj",
+        "image_n3VJNa",
+        "image_igz6kA"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     },
     "images_with_text_scroll_HNGQqz": {
@@ -398,81 +477,6 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
-    },
-    "media_grid_k9ym9i": {
-      "type": "media-grid",
-      "blocks": {
-        "image_GXYTPj": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/Screenshot_2024-10-29_at_5.34.48_PM.png",
-            "column_count": "8",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_n3VJNa": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/Amplyfye_Logo.png",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_igz6kA": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/image_27.jpg",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_GXYTPj",
-        "image_n3VJNa",
-        "image_igz6kA"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "desktop_row_height": 290,
-        "mobile_row_height": 180,
-        "section_width": "lg",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
     }
   },
   "order": [
@@ -482,8 +486,8 @@
     "faq_PftBxE",
     "image_with_text_zg4KTk",
     "scrolling_content_YWWzbT",
+    "media_grid_k9ym9i",
     "images_with_text_scroll_HNGQqz",
-    "image_with_text_overlay_MdyppR",
-    "media_grid_k9ym9i"
+    "image_with_text_overlay_MdyppR"
   ]
 }
