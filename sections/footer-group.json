@@ -11,6 +11,42 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "rich_text_rPLPbr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_HPGwBB": {
+          "type": "subheading",
+          "settings": {
+            "text": "Advisors"
+          }
+        },
+        "heading_74rthN": {
+          "type": "heading",
+          "settings": {
+            "text": "Board of Experts",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_RmLjbn": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HPGwBB",
+        "heading_74rthN",
+        "richtext_RmLjbn"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "timeline_BmCbKb": {
       "type": "timeline",
       "blocks": {
@@ -78,7 +114,6 @@
         "item_y9c7hG",
         "item_D63caU"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "item_color_scheme": "scheme-1",
@@ -151,8 +186,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Let's optimize together",
-            "content": "<h3>Join the Protein Collective</h3>",
+            "title": "Knowledge is power",
+            "content": "<h3>Sign up to our newsletter</h3>",
             "button_background": "",
             "button_text_color": ""
           }
@@ -220,6 +255,7 @@
     }
   },
   "order": [
+    "rich_text_rPLPbr",
     "timeline_BmCbKb",
     "text-with-icons",
     "footer"

@@ -42,7 +42,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Girl_holding_jar_over_head_V2.jpg",
+            "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
             "subheading": "",
             "title": "BORN FROM NOBEL PRIZE WINNING SCIENCE OUT OF UC DAVIS",
             "mobile_text_position": "place-self-center text-center",
@@ -629,6 +629,7 @@
         "heading_WcBEBM",
         "richtext_rzbACR"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
