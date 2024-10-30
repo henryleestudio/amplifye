@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
             "subheading": "",
-            "title": "NOBEL PRIZE WINNING SCIENCE </br>FOR 2X PROTEIN ABSORPTION",
+            "title": "BORN FROM NOBEL PRIZE WINNING SCIENCE OUT OF UC DAVIS",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "content_max_width": 780,
@@ -593,8 +593,8 @@
           "type": "item",
           "settings": {
             "label": "2000",
-            "subheading": "Subheading",
-            "title": "2000",
+            "subheading": "Our team of experts",
+            "title": "Dr.",
             "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
             "link_text": "",
             "link_url": "",
