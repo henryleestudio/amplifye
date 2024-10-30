@@ -249,7 +249,7 @@
             "image": "shopify://shop_images/profile-1_b69719de-a598-442a-a632-865b041f88bc.png",
             "title": "Rita H.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"This is an absolute game changer for me. With p24, I feel like I'm finally getting the benefits protein was always promising.\"</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -260,7 +260,7 @@
             "image": "shopify://shop_images/profile-2.png",
             "title": "Marilinda P.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Bad sleep was aging my skin. I tried everything. Finally, I took p24 and started sleeping all night. My skin is improving—and so is my mood!\"</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -269,9 +269,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-3.png",
-            "title": "Joshua A.",
+            "title": "Janae J.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"I was so tired of always feeling heavy after eating meat. One p24 and it's just not a problem. Bring on the burgers lol\"</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -280,9 +280,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-5.png",
-            "title": "Joshua A.",
+            "title": "Neda S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"I'm on GLP1 and trying to stay healthy. With p24 I know I'm keeping more muscle and staying safer.\"</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -291,9 +291,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-4.png",
-            "title": "Joshua A.",
+            "title": "CAMRON X",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"I used to feel wasted after my workouts. But on P24 I'm bouncing back way faster and going back harder the next day. LOVE this.\"</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -455,6 +455,12 @@
           "settings": {
           }
         },
+        "text_tMpmbA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Key benefits</p>"
+          }
+        },
         "description_PMeyB4": {
           "type": "description",
           "settings": {
@@ -501,6 +507,7 @@
         "rating_xfnTdh",
         "payment_terms_7MiMza",
         "separator_B8tjRU",
+        "text_tMpmbA",
         "description_PMeyB4",
         "variant_picker_U78ENg",
         "quantity_selector_GJVrAN",
@@ -534,8 +541,8 @@
           "settings": {
             "image": "shopify://shop_images/Screenshot2024-10-30at2.44.16AM.png",
             "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "title": "Nobel Prize Winning Technology",
+            "content": "<p>The science inside each P24 capsule has its roots in award-winning research conducted at UC Davis.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -545,8 +552,8 @@
           "type": "image_with_text",
           "settings": {
             "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "title": "Planet friendly approach.",
+            "content": "<p>By increasing protein bioavailability, P24 contributes to a sustainable food ecosystem, supporting health without additional resource strain.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -556,8 +563,8 @@
           "type": "image_with_text",
           "settings": {
             "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "title": "A TRULY DIFFERENT APPROACH",
+            "content": "<p>P24 Protein Optimizer is the only precision enzyme supplement specifically targeting protein absorption to deliver enhanced wellness—all without the need for dietary changes or increased protein intake.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
