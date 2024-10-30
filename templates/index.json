@@ -370,6 +370,48 @@
         "remove_vertical_spacing": false
       }
     },
+    "multiple-media-with-text": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "the 60-second",
+        "title": "Protein Quiz",
+        "content": "<p>Get personalized product recommendations with our quick and easy quiz! Together, we'll learn what your skin needs and create the perfect skincare routine for you.</p>",
+        "button_1_text": "TAKE THE QUIZ",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "featured_product_nDQaDa": {
       "type": "featured-product",
       "blocks": {
@@ -468,7 +510,7 @@
       "settings": {
         "color_scheme": "",
         "product": "pdp",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "container_size": "lg",
         "product_info_size": 45,
         "center_basic_info": false,
@@ -490,6 +532,7 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/Screenshot2024-10-30at2.44.16AM.png",
             "subheading": "",
             "title": "#1",
             "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
@@ -528,6 +571,7 @@
       ],
       "settings": {
         "color_scheme": "",
+        "background_image": "shopify://shop_images/istockphoto-1967741682-1024x1024_1.jpg",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
@@ -535,46 +579,58 @@
         "overlay_opacity": 0
       }
     },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
+    "timeline_j36ykw": {
+      "type": "timeline",
       "blocks": {
-        "image-1": {
-          "type": "image",
+        "item_TmkFh8": {
+          "type": "item",
           "settings": {
-            "rotation": 0
+            "label": "2000",
+            "subheading": "Subheading",
+            "title": "2000",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
           }
         },
-        "image-2": {
-          "type": "image",
+        "item_PXzzFy": {
+          "type": "item",
           "settings": {
-            "rotation": 0
+            "label": "2010",
+            "subheading": "Subheading",
+            "title": "2010",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_Nndtqk": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "2020",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "image-1",
-        "image-2"
+        "item_TmkFh8",
+        "item_PXzzFy",
+        "item_Nndtqk"
       ],
       "settings": {
         "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
+        "item_color_scheme": "",
+        "separate_section_with_border": true
       }
     },
     "newsletter": {
@@ -651,9 +707,10 @@
     "featured-collections",
     "multi-column",
     "rich_text_tiaiML",
+    "multiple-media-with-text",
     "featured_product_nDQaDa",
     "image-with-text-scroll",
-    "multiple-media-with-text",
+    "timeline_j36ykw",
     "newsletter",
     "shop-the-look",
     "blog-posts"
