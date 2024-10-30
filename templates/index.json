@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
             "subheading": "",
-            "title": "NOBEL PRIZE WINNING SCIENCE <>FOR 2X PROTEIN ABSORPTION",
+            "title": "NOBEL PRIZE WINNING SCIENCE </br>FOR 2X PROTEIN ABSORPTION",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "content_max_width": 780,
@@ -315,7 +315,7 @@
         "content_alignment": "center",
         "text_alignment": "start",
         "spacing": "md",
-        "subheading": "Sub title",
+        "subheading": "Stories & Science",
         "title": "Testimonials",
         "content": ""
       }
