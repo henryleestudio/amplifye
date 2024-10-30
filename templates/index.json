@@ -1,1 +1,718 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{}},"slide-2":{"type":"image","settings":{}}},"block_order":["slide-1","slide-2"],"settings":{}},"featured-collections":{"type":"featured-collections","blocks":{"collection-1":{"type":"collection","settings":{}}},"block_order":["collection-1"],"settings":{}},"multi-column":{"type":"multi-column","blocks":{"column-1":{"type":"image_with_text","settings":{}},"column-2":{"type":"image_with_text","settings":{}},"column-3":{"type":"image_with_text","settings":{}}},"block_order":["column-1","column-2","column-3"],"settings":{}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{}},"collection-2":{"type":"collection","settings":{}},"collection-3":{"type":"collection","settings":{}},"collection-4":{"type":"collection","settings":{}},"collection-5":{"type":"collection","settings":{}},"collection-6":{"type":"collection","settings":{}}},"block_order":["collection-1","collection-2","collection-3","collection-4","collection-5","collection-6"],"settings":{}},"before-after":{"type":"before-after","blocks":{"before":{"type":"before","settings":{}},"after":{"type":"after","settings":{}}},"block_order":["before","after"],"settings":{}},"image-with-text-scroll":{"type":"images-with-text-scroll","blocks":{"item-1":{"type":"image_with_text","settings":{"title":"#1","content":"<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.<\/p>"}},"item-2":{"type":"image_with_text","settings":{"title":"#2","content":"<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.<\/p>"}},"item-3":{"type":"image_with_text","settings":{"title":"#3","content":"<p>Share information about your product with your customers. Describe a product, and share info about your production process...<\/p>"}}},"block_order":["item-1","item-2","item-3"],"settings":{}},"multiple-media-with-text":{"type":"multiple-media-with-text","blocks":{"image-1":{"type":"image","settings":{}},"image-2":{"type":"image","settings":{}}},"block_order":["image-1","image-2"],"settings":{}},"newsletter":{"type":"newsletter","settings":{}},"shop-the-look":{"type":"shop-the-look","blocks":{"look-1":{"type":"look","settings":{}}},"block_order":["look-1"],"settings":{}},"blog-posts":{"type":"blog-posts","settings":{}}},"order":["slideshow","featured-collections","multi-column","collection-list","before-after","image-with-text-scroll","multiple-media-with-text","newsletter","shop-the-look","blog-posts"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
+            "subheading": "Tell your story",
+            "title": "Image slide",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
+            "subheading": "",
+            "title": "Stop supplimenting, Start optimizing",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "GET P24",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": true,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "logo_list_JXpfTN": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_nYa36E": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/forbes-logo.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_EY7MJP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/womens-health-logo-1.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_GpUTi3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/goop-logo_22ccf25d-1562-44a7-a31f-2a04c28b5dd6.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_P4AdPz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/entrepreneur-logo.webp",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_tamD73": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/poosh-logo.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_pBRHFm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/refinery-29-logo-1.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_nYa36E",
+        "logo_EY7MJP",
+        "logo_GpUTi3",
+        "logo_P4AdPz",
+        "logo_tamD73",
+        "logo_pBRHFm"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "",
+        "items_per_row": 6,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "testimonials_EVQYdk": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hEaYAE": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_t8mNgG": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_P7pPhW": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_iBiaM4": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hEaYAE",
+        "testimonial_t8mNgG",
+        "testimonial_P7pPhW",
+        "testimonial_iBiaM4"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "auto_rotate_between_testimonials": false,
+        "cycle_speed": 5,
+        "font_size_factor": 1,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "multi-column": {
+      "type": "multi-column",
+      "blocks": {
+        "column-2": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/profile-1_b69719de-a598-442a-a632-865b041f88bc.png",
+            "title": "Rita H.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "column-1": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/profile-2.png",
+            "title": "Marilinda P.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "column-3": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/profile-3.png",
+            "title": "Joshua A.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_f7JAnr": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/profile-5.png",
+            "title": "Joshua A.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_Lf3pNF": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/profile-4.png",
+            "title": "Joshua A.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-2",
+        "column-1",
+        "column-3",
+        "image_with_text_f7JAnr",
+        "image_with_text_Lf3pNF"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 5,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "Sub title",
+        "title": "Testimonials",
+        "content": ""
+      }
+    },
+    "rich_text_tiaiML": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AjWbYC": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_eTjkzU": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_4QhY3e": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_TaEphx": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AjWbYC",
+        "heading_eTjkzU",
+        "richtext_4QhY3e",
+        "button_TaEphx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple-media-with-text": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "the 60-second",
+        "title": "Protein Quiz",
+        "content": "<p>Get personalized product recommendations with our quick and easy quiz! Together, we'll learn what your skin needs and create the perfect skincare routine for you.</p>",
+        "button_1_text": "TAKE THE QUIZ",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "featured_product_nDQaDa": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_j676tq": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "title_y6jURn": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_pzffgJ": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_z6dQG4": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_xfnTdh": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_7MiMza": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_B8tjRU": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_PMeyB4": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_U78ENg": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_GJVrAN": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_cn4mza": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ymq9Vw": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_j676tq",
+        "title_y6jURn",
+        "badges_pzffgJ",
+        "price_z6dQG4",
+        "rating_xfnTdh",
+        "payment_terms_7MiMza",
+        "separator_B8tjRU",
+        "description_PMeyB4",
+        "variant_picker_U78ENg",
+        "quantity_selector_GJVrAN",
+        "buy_buttons_cn4mza",
+        "pickup_availability_ymq9Vw"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "pdp",
+        "separate_section_with_border": false,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Featured product",
+        "content": ""
+      }
+    },
+    "image-with-text-scroll": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "item-1": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot2024-10-30at2.44.16AM.png",
+            "subheading": "",
+            "title": "#1",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "item-2": {
+          "type": "image_with_text",
+          "settings": {
+            "subheading": "",
+            "title": "#2",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "item-3": {
+          "type": "image_with_text",
+          "settings": {
+            "subheading": "",
+            "title": "#3",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "background_image": "shopify://shop_images/istockphoto-1967741682-1024x1024_1.jpg",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "timeline_j36ykw": {
+      "type": "timeline",
+      "blocks": {
+        "item_TmkFh8": {
+          "type": "item",
+          "settings": {
+            "label": "2000",
+            "subheading": "Subheading",
+            "title": "2000",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_PXzzFy": {
+          "type": "item",
+          "settings": {
+            "label": "2010",
+            "subheading": "Subheading",
+            "title": "2010",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_Nndtqk": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "2020",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_TmkFh8",
+        "item_PXzzFy",
+        "item_Nndtqk"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "",
+        "separate_section_with_border": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "hot_spots_background": "#ffffff",
+            "product_1": "",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "look-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "logo_list_JXpfTN",
+    "testimonials_EVQYdk",
+    "featured-collections",
+    "multi-column",
+    "rich_text_tiaiML",
+    "multiple-media-with-text",
+    "featured_product_nDQaDa",
+    "image-with-text-scroll",
+    "timeline_j36ykw",
+    "newsletter",
+    "shop-the-look",
+    "blog-posts"
+  ]
+}
