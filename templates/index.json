@@ -640,6 +640,20 @@
     "timeline_pKEwX4": {
       "type": "timeline",
       "blocks": {
+        "item_EgdYgN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/emily.png",
+            "label": "dr Emily",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr Emily",
+            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
         "item_kfxWNQ": {
           "type": "item",
           "settings": {
@@ -667,26 +681,12 @@
             "link_style": "link",
             "mobile_text_color": "#ffffff"
           }
-        },
-        "item_EgdYgN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2024-10-30_at_6.01.17_AM.png",
-            "label": "dr Emily",
-            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
-            "title": "dr Emily",
-            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
         }
       },
       "block_order": [
+        "item_EgdYgN",
         "item_kfxWNQ",
-        "item_hNFXrz",
-        "item_EgdYgN"
+        "item_hNFXrz"
       ],
       "settings": {
         "color_scheme": "scheme-1",
