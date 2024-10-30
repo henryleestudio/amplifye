@@ -58,6 +58,7 @@
         },
         "item_D63caU": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/expert-profile-3.jpg",
             "label": "2020",
