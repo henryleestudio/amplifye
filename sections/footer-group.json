@@ -150,8 +150,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Learn more about the science behind P24",
-            "content": "<p>share your nutritional journey</p>",
+            "title": "Knowledge is power",
+            "content": "<h3>Sign up to our newsletter</h3>",
             "button_background": "",
             "button_text_color": ""
           }
@@ -172,12 +172,29 @@
             "menu_title": ""
           }
         },
+        "links_JCzwdH": {
+          "type": "links",
+          "settings": {
+            "menu": "about",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "About",
             "content": "<p>p24 is a precision protein optimizer born from Nobel Prize winning science out of UC Davis. <br/><br/>With p24, your body can absorb up to 2x as much protein from the food you’re already eating. Take one pill with your largest protein meal each day for easier digestion, sustained energy, and deeper sleep. <br/><br/>To learn more about the science behind our product and share your nutritional journey with our like minded community</p>",
             "enable_follow_on_shop": true
+          }
+        },
+        "links_ALV8pT": {
+          "type": "links",
+          "settings": {
+            "menu": "support",
+            "show_menu_title": true,
+            "menu_title": ""
           }
         }
       },
@@ -185,7 +202,9 @@
         "newsletter",
         "links",
         "links_acY8ht",
-        "text"
+        "links_JCzwdH",
+        "text",
+        "links_ALV8pT"
       ],
       "settings": {
         "color_scheme": "scheme-3",
