@@ -40,7 +40,7 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "show_separation_border": true,
-        "reduce_padding": true,
+        "reduce_padding": false,
         "logo": "{{ shop.brand.logo }}",
         "logo_max_width": 180,
         "logo_mobile_max_width": 100,
