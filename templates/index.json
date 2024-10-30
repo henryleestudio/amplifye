@@ -42,7 +42,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Girl_holding_jar_over_head.jpg",
+            "image": "shopify://shop_images/Girl_holding_jar_over_head_V2.jpg",
             "subheading": "",
             "title": "BORN FROM NOBEL PRIZE WINNING SCIENCE OUT OF UC DAVIS",
             "mobile_text_position": "place-self-center text-center",
@@ -269,7 +269,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-3.png",
-            "title": "Janae J.",
+            "title": "Joshua A.",
             "heading_tag": "h4",
             "content": "<p>\"I was so tired of always feeling heavy after eating meat. One p24 and it's just not a problem. Bring on the burgers lol\"</p>",
             "link_url": "",
@@ -280,7 +280,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-5.png",
-            "title": "Neda S.",
+            "title": "Joshua A.",
             "heading_tag": "h4",
             "content": "<p>\"I'm on GLP1 and trying to stay healthy. With p24 I know I'm keeping more muscle and staying safer.\"</p>",
             "link_url": "",
@@ -291,7 +291,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/profile-4.png",
-            "title": "CAMRON X",
+            "title": "Joshua A.",
             "heading_tag": "h4",
             "content": "<p>\"I used to feel wasted after my workouts. But on P24 I'm bouncing back way faster and going back harder the next day. LOVE this.\"</p>",
             "link_url": "",
@@ -457,12 +457,6 @@
           "settings": {
           }
         },
-        "text_tMpmbA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Key benefits</p>"
-          }
-        },
         "description_PMeyB4": {
           "type": "description",
           "settings": {
@@ -509,7 +503,6 @@
         "rating_xfnTdh",
         "payment_terms_7MiMza",
         "separator_B8tjRU",
-        "text_tMpmbA",
         "description_PMeyB4",
         "variant_picker_U78ENg",
         "quantity_selector_GJVrAN",
@@ -579,6 +572,16 @@
         "item-2",
         "item-3"
       ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "background_image": "shopify://shop_images/istockphoto-1967741682-1024x1024_2.jpg",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "disabled": true,
