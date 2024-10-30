@@ -28,20 +28,6 @@
             "mobile_text_color": "#ffffff"
           }
         },
-        "item_y9c7hG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/expert-profile-2.jpg",
-            "label": "dr will cole",
-            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
-            "title": "dr will cole",
-            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
         "item_68UY9b": {
           "type": "item",
           "settings": {
@@ -50,6 +36,20 @@
             "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
             "title": "dr mark hyman",
             "content": "<p>\"Functional Medicine Physician, 15x New York Times Bestselling Author\"</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_y9c7hG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-10-30_at_6.01.17_AM.png",
+            "label": "dr Emily",
+            "subheading": "Functional Medicine Physician, New York Times Bestselling Author",
+            "title": "dr Emily",
+            "content": "<p>“This is a supplement I use myself everyday to be as healthy as I can, for as long as I can.”</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -74,8 +74,8 @@
       },
       "block_order": [
         "item_ieD8tT",
-        "item_y9c7hG",
         "item_68UY9b",
+        "item_y9c7hG",
         "item_D63caU"
       ],
       "settings": {
