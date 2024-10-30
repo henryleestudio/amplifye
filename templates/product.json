@@ -272,7 +272,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Screenshot_2024-10-29_at_5.40.31_PM.png",
+        "image": "shopify://shop_images/image_82.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
@@ -321,7 +321,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/Screenshot_2024-10-29_at_5.34.48_PM.png",
+            "image": "shopify://shop_images/product-packaging.jpg",
             "column_count": "8",
             "row_count": 2,
             "title": "",
